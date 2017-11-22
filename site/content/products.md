@@ -1,5 +1,5 @@
 ---
-title: Our Coffee
+title: Our Cofveve
 type: products
 page: /products.html
 image: /img/products/jumbotron.jpg
@@ -99,5 +99,4 @@ pricing:
       plan: Custom
       price: '?'
 ---
-
 
